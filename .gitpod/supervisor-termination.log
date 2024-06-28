@@ -1,0 +1,45 @@
+[410ns] Shutting down all processes 
+[285.15µs] Terminating process supervisor with PID 36 (state: S, cmdlind: [supervisor run] <nil>). 
+[21.723119ms] Terminating main process errored: wait: no child processes 
+[22.158799ms] Terminating process sshd with PID 351 (state: R, cmdlind: [] <nil>). 
+[22.206259ms] Terminating process node with PID 1882 (state: S, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=1752] <nil>). 
+[22.214509ms] Terminating process node with PID 470 (state: R, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/server-main.js --connection-token=remotessh --accept-server-license-terms --install-extension=gitpod.gitpod-remote-ssh --start-server --enable-remote-auto-shutdown --socket-path=/tmp/code-adc0a253-28cb-42d0-84ca-8f212d3d3c66] <nil>). 
+[23.457378ms] Terminating main process errored: waitid: no child processes 
+[22.344279ms] Terminating process node with PID 554 (state: R, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node --dns-result-order=ipv4first /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false] <nil>). 
+[23.530468ms] Terminating main process errored: waitid: no child processes 
+[22.501968ms] Terminating process node with PID 70 (state: S, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[23.509018ms] Terminating process sleep with PID 1730 (state: S, cmdlind: [sleep 180] <nil>). 
+[22.236749ms] Terminating main process errored: waitid: no child processes 
+[23.588678ms] Terminating main process errored: waitid: no child processes 
+[22.637779ms] Terminating process bash with PID 745 (state: S, cmdlind: [/bin/bash --init-file /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh] <nil>). 
+[23.615028ms] Terminating main process errored: waitid: no child processes 
+[22.688048ms] Terminating process sleep with PID 444 (state: S, cmdlind: [sleep 180] <nil>). 
+[22.746348ms] Terminating process node with PID 1763 (state: S, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[22.553939ms] Terminating process node with PID 603 (state: S, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/bootstrap-fork --type=ptyHost --logsPath /home/gitpod/.vscode-server/data/logs/20240628T031345] <nil>). 
+[23.794388ms] Terminating main process errored: waitid: no child processes 
+[22.884599ms] Terminating process sh with PID 466 (state: S, cmdlind: [sh /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/bin/code-server --connection-token=remotessh --accept-server-license-terms --install-extension=gitpod.gitpod-remote-ssh --start-server --enable-remote-auto-shutdown --socket-path=/tmp/code-adc0a253-28cb-42d0-84ca-8f212d3d3c66] <nil>). 
+[22.847259ms] Terminating process bash with PID 352 (state: S, cmdlind: [bash] <nil>). 
+[23.849868ms] Terminating main process errored: waitid: no child processes 
+[22.440579ms] Terminating process bash with PID 1666 (state: S, cmdlind: [bash] <nil>). 
+[23.896118ms] Terminating main process errored: waitid: no child processes 
+[23.651538ms] Terminating main process errored: waitid: no child processes 
+[23.657078ms] Terminating process node with PID 581 (state: S, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[23.968278ms] Terminating process node with PID 784 (state: S, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node /home/gitpod/.vscode-server/extensions/redhat.vscode-yaml-1.15.0/dist/languageserver.js --node-ipc --clientProcessId=554] <nil>). 
+[22.791908ms] Terminating process node with PID 1860 (state: S, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node /home/gitpod/.vscode-server/extensions/redhat.vscode-yaml-1.15.0/dist/languageserver.js --node-ipc --clientProcessId=1752] <nil>). 
+[24.138658ms] Terminating main process errored: waitid: no child processes 
+[22.601568ms] Terminating process code-5437499feb with PID 1686 (state: S, cmdlind: [/home/gitpod/.vscode-server/code-5437499feb04f7a586f677b155b039bc2b3669eb command-shell --cli-data-dir /home/gitpod/.vscode-server/cli --parent-process-id 1666 --on-port --on-host=127.0.0.1] <nil>). 
+[24.439268ms] Terminating main process errored: waitid: no child processes 
+[22.563008ms] Terminating process node with PID 1752 (state: R, cmdlind: [/home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/node --dns-result-order=ipv4first /home/gitpod/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false] <nil>). 
+[24.514468ms] Terminating main process errored: waitid: no child processes 
+[24.013878ms] Terminating main process errored: waitid: no child processes 
+[24.148898ms] Terminating main process errored: waitid: no child processes 
+[22.657328ms] Couldn't obtain process information for PID 1659. 
+[24.693598ms] Terminating process code-5437499feb with PID 407 (state: S, cmdlind: [/home/gitpod/.vscode-server/code-5437499feb04f7a586f677b155b039bc2b3669eb command-shell --cli-data-dir /home/gitpod/.vscode-server/cli --parent-process-id 352 --on-port --on-host=127.0.0.1] <nil>). 
+[24.869648ms] Terminating main process errored: waitid: no child processes 
+[26.936138ms] Terminating main process errored: waitid: no child processes 
+[28.049598ms] Terminating main process errored: wait: no child processes 
+[45.052937ms] Terminating main process errored: wait: no child processes 
+[55.235766ms] Couldn't obtain process information for PID 1860. 
+[73.471455ms] Couldn't obtain process information for PID 581. 
+[73.835954ms] Couldn't obtain process information for PID 1752. 
+[73.901244ms] Finished shutting down all processes. 

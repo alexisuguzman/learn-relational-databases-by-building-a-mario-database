@@ -1,0 +1,36 @@
+2024-06-28 00:12:53.720 [info] 
+
+
+
+
+2024-06-28 00:12:53.737 [info] Extension host agent started.
+2024-06-28 00:12:53.763 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-06-28 00:12:53.895 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-06-28 00:12:53.957 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2024-06-28 00:12:54.902 [info] [192.168.89.75][853a7b36][ManagementConnection] New connection established.
+2024-06-28 00:12:55.701 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2024-06-28 00:12:55.702 [info] Getting Manifest... github.vscode-pull-request-github
+2024-06-28 00:12:56.051 [info] Installing extension: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2024-06-28 00:12:56.381 [info] [192.168.190.10][8b0103ee][ExtensionHostConnection] New connection established.
+2024-06-28 00:12:56.386 [info] [192.168.190.10][8b0103ee][ExtensionHostConnection] <606> Launched Extension Host Process.
+2024-06-28 00:12:57.363 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.90.0-universal: github.vscode-pull-request-github
+2024-06-28 00:12:57.367 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.90.0-universal
+2024-06-28 00:12:57.430 [info] Extension installed successfully: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2024-06-28 00:12:57.432 [info] Extension 'github.vscode-pull-request-github' v0.90.0 was successfully installed.
+2024-06-28 00:12:57.433 [info] Installing extensions...
+2024-06-28 00:12:57.800 [info] Installing extension 'coderoad.coderoad'...
+2024-06-28 00:12:57.800 [info] Getting Manifest... coderoad.coderoad
+2024-06-28 00:12:57.972 [info] Installing extension: coderoad.coderoad file:///workspace/.vscode-remote/extensions/extensions.json
+2024-06-28 00:12:58.798 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal: coderoad.coderoad
+2024-06-28 00:12:58.800 [info] Renamed to /workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal
+2024-06-28 00:12:58.872 [info] Extension installed successfully: coderoad.coderoad file:///workspace/.vscode-remote/extensions/extensions.json
+2024-06-28 00:12:58.873 [info] Extension 'coderoad.coderoad' v0.19.4 was successfully installed.
+2024-06-28 00:15:17.055 [info] [192.168.89.75][853a7b36][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-28 00:15:17.106 [info] [192.168.190.10][8b0103ee][ExtensionHostConnection] <606> Extension Host Process exited with code: 0, signal: null.
+2024-06-28 00:16:08.148 [info] [192.168.190.10][8b18eba1][ManagementConnection] New connection established.
+2024-06-28 00:16:08.428 [info] [192.168.190.10][6b1fd6b7][ExtensionHostConnection] New connection established.
+2024-06-28 00:16:08.502 [info] [192.168.190.10][6b1fd6b7][ExtensionHostConnection] <869> Launched Extension Host Process.
+2024-06-28 01:49:20.534 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-06-28 01:49:20.534 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-06-28 02:58:17.115 [info] [192.168.190.10][8b18eba1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-28 02:58:17.156 [info] [192.168.190.10][6b1fd6b7][ExtensionHostConnection] <869> Extension Host Process exited with code: 0, signal: null.
